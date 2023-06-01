@@ -1,0 +1,31 @@
+# Mi Proyecto
+
+Este es un proyecto increíble creado con CSS.
+
+## Descripción
+
+Aquí puedes proporcionar una descripción más detallada de tu proyecto. Explica qué hace, por qué es importante y cualquier información relevante que los usuarios deban saber.
+
+## Estilos CSS Personalizados
+
+Para personalizar los estilos de tu proyecto, puedes utilizar CSS. A continuación, se muestra un ejemplo de cómo aplicar estilos a un elemento:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mi Página Web</title>
+  <style>
+    /* Estilos CSS personalizados */
+    .mi-elemento {
+      color: #ff0000;
+      font-size: 16px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1>Bienvenido a mi página web</h1>
+  <p class="mi-elemento">Este es un ejemplo de cómo aplicar estilos CSS personalizados.</p>
+</body>
+</html>
